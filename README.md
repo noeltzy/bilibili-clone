@@ -22,7 +22,7 @@
 
 ```bash
 # 克隆项目
-git clone [your-repo-url]
+git clone https://github.com/noeltzy/bilibili-clone.git
 
 # 安装依赖
 npm install
@@ -33,7 +33,7 @@ npm run dev
 
 ## 在线预览
 
-访问：[your-vercel-url]
+访问：[https://bilibili-clone.vercel.app](https://bilibili-clone.vercel.app)
 
 ## 许可证
 
